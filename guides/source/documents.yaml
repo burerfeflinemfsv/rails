@@ -223,7 +223,7 @@
       name: Active Support Structured Events
       work_in_progress: true
       url: active_support_structured_events.html
-      description: This guide introduces Active Support Structured Events, what they are, and how to use them.
+      description: This guide introduces the Active Support Structured Events API for obserability.  Structured events capture named facts about what happened, when, and from where.
     -
       name: Using Rails for API-only Applications
       url: api_app.html
